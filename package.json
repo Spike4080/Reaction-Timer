@@ -1,5 +1,5 @@
 {
-  "name": "train_vue_timer_project",
+  "name": "reaction_timer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,9 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
+  },
+  "rules": {
+    "vue/multi-word-component-names":"off"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
